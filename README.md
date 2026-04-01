@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pushkar-verma
-- 👀 I’m interested in anything which i can learn in python 
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @pushkar-verma.
+- 👀 I am pursuing Data Science BS degree form IIT Madras.
+- 🌱 I’m currently learning python.
 
 
 
